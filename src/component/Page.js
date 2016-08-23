@@ -7,8 +7,7 @@ export default class Page extends Component {
 	render(){
 		return (
 			<div className="container">
-				<div className="listName">gao</div>
-				<div className="firstName">bo</div>
+				<div className="listName">made by 高波</div>
 			</div>
 			);
 	}
