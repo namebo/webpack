@@ -12,7 +12,7 @@ export default class App extends Component {
 				<div className="nav">
 					<ul>
 						<li><Link to="/border">CSS3 边框</Link></li>
-						<li><Link to="/background">CSS3 背景</Link></li>
+						<li><Link to="/background">CSS3 背s景</Link></li>
 					</ul>
 				</div>
 				<div className="container">
